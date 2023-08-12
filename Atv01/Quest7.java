@@ -5,8 +5,9 @@ public class Quest7 {
         Retangulo ret = new Retangulo(5, 7);
         double area = ret.calcularArea();
         double perimetro = ret.calcularPerimetro();
-        System.out.println("A área do retângulo é: " + area);
-        System.out.println("O perímetro do retângulo é: " + perimetro);
+        
+        System.out.println("A área do retângulo é: " + String.format("%.2f", area));
+        System.out.println("O perímetro do retângulo é: " + String.format("%.2f", perimetro));
     }
 }
 
