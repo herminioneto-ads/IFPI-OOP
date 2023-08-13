@@ -1,0 +1,30 @@
+1. Uma classe funciona como um "molde" do objeto, enquanto o objeto em si seria uma instância dessa classe.
+Exemplo prático: existe uma classe chamada "Pessoa", com seus respectivos atributos e métodos, e é declarada
+uma variável chamada "pessoa1" que é inicializada como sendo uma instância de "Pessoa", e essa variável seria
+o objeto.
+
+2. Atributos são semelhantes às variáveis, mas em POO se referem às características de um determinado objeto. Os
+métodos são semelhantes à funções, mas em POO se referem aos tipos de comportamento de um determinado objeto. Por
+exemplo, um objeto Carro tem atributos como marca, modelo, cor, tipo de motor, etc. E tem métodos como acelerar,
+freiar, estacionar, etc.
+
+3. 
+     Atributo           |     Sistema em que é importante    
+Peso                    | Sistema voltado para gerenciar competidores de um determinado esporte
+Tipo de CNH             | Sistema de uma empresa que realiza aluguel de veículos
+Tipo Sanguíneo          | Sistema hospitalar de cadastro de doadores de sangue
+Habilidade destra       | Sistema responsável por gerenciar jogadores de um time de futebol
+Percentual de gordura   | Sistema voltado para avaliar o físico e sugerir uma dieta personalizada
+Saldo em conta          | Sistema gerenciador de conta bancária
+Etnia                   | Sistema de pesquisas demográficas
+
+4. 
+a) Sim, seria interessante, com o intuito de associar uma conta a um determinado usuário.
+b) Sim, tendo em vista que uma pessoa pode ter outros tipos de conta, como conta poupança, conta corrente,
+até mesmo contas voltadas para investimentos e etc.
+
+5. Aluno, professor, disciplina, prova, turma, grade curricular, etc.
+
+6. Um jogo de RPG, onde existem várias classes referentes aos tipos de personagem (mago, guerreiro, arqueiro, etc),
+e para cada classe existiriam atributos como dano mágico, dano físico, precisão, entre outros, e métodos como atacar,
+defender, calcular dano causado, calcular dano recebido.
