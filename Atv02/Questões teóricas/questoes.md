@@ -55,7 +55,7 @@ conversão explícita. No entanto, na linguagem C, isso compila e executa sem er
 promove automaticamente o float para int e realiza a operação.
 
 # 5.
-Vamos supor que você estamos escrevendo um programa que lida com entradas do usuário e não temos certeza sobre o tipo de entrada que 
+Vamos supor que estamos escrevendo um programa que lida com entradas do usuário e não temos certeza sobre o tipo de entrada que 
 será fornecido. O uso do "any" pode ser útil para lidar com diferentes tipos de entrada. Exemplo em TS:
 
 ```
