@@ -76,3 +76,15 @@ processInput(true); // Outro tipo (any)
 ```
 Neste exemplo, a função processInput recebe um parâmetro de tipo any, permitindo que diferentes tipos de valores sejam passados como 
 argumentos. A função então verifica o tipo do valor usando typeof e executa ações diferentes com base no tipo.
+
+# 6.
+No caso do tipo "number" no TypeScript, a linguagem permite que sejam realizadas operações entre inteiros e números de ponto 
+flutuante sem a necessidade de conversões explícitas, porque os tipos são numericamente compatíveis. Isso não torna a 
+tipagem fraca, mas sim permite que a linguagem facilite operações matemáticas comuns. Isso ocorre porque tanto inteiros 
+quanto ponto flutuante são representados numericamente e podem ser tratados de forma coerente.
+
+# 8.
+O arquivo "tsconfig.json" foi configurado conforme o que é solicitado nas questões. Na pasta "output" ficam contidos os 
+arquivos compilados, a exemplo do arquivo "question7.ts", que contém a resolução da questão 7 da lista. A única alternativa 
+que não consegui resolver foi a letra d, pois o arquivo de configuração me informa que a versão ES3 é muito antiga, podendo 
+causar problemas.
