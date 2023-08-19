@@ -87,4 +87,4 @@ quanto ponto flutuante são representados numericamente e podem ser tratados de 
 O arquivo "tsconfig.json" foi configurado conforme o que é solicitado nas questões. Na pasta "output" ficam contidos os 
 arquivos compilados, a exemplo do arquivo "question7.ts", que contém a resolução da questão 7 da lista. A única alternativa 
 que não consegui resolver foi a letra d, pois o arquivo de configuração me informa que a versão ES3 é muito antiga, podendo 
-causar problemas.
+causar problemas no momento da compilação.
